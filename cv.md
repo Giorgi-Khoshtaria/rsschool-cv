@@ -28,3 +28,10 @@ Throughout my studies and personal projects, I've gained proficiency in front-en
 
 My Skills : Html, Css, Javascript, Bootstrap, ReactJs, Typescript, NextJs, Styled-components, Tailwind CSS, NodeJs,
 MongoDb, Git
+
+## Code example links
+
+- [Flowers Shop](https://github.com/Giorgi-Khoshtaria/FlowerShop)
+- [Food Cave](https://github.com/Giorgi-Khoshtaria/Food-Cave-front)
+- [Audiophile](https://github.com/Giorgi-Khoshtaria/rsschool-cv/edit/gh-pages/cv.md)
+- [invoice-app](https://github.com/Giorgi-Khoshtaria/invoice-app)
